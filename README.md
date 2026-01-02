@@ -1,7 +1,7 @@
-![GitHub Stars](https://img.shields.io/github/stars/wsmr/SCRIPT-ZSH-PHP_version_manager?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/wsmr/SCRIPT-ZSH-PHP_version_manager?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/wsmr/SCRIPT-ZSH-PHP_version_manager)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/wsmr/SCRIPT-ZSH-PHP_version_manager)
+![GitHub Stars](https://img.shields.io/github/stars/wsmr/macOS-ZSH-PHP_version_manager?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/wsmr/macOS-ZSH-PHP_version_manager?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/wsmr/macOS-ZSH-PHP_version_manager)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/wsmr/macOS-ZSH-PHP_version_manager)
 
 # PVM (PHP Version Manager) for macOS
 
@@ -59,7 +59,7 @@ brew install shivammathur/php/php@7.4
 
 ```bash
 # Download and append to your shell config
-curl -fsSL https://raw.githubusercontent.com/wsmr/SCRIPT-ZSH-PHP_version_manager/main/pvm.sh >> ~/.zshrc
+curl -fsSL https://raw.githubusercontent.com/wsmr/macOS-ZSH-PHP_version_manager/main/pvm.sh >> ~/.zshrc
 
 # Reload your shell
 source ~/.zshrc
@@ -69,8 +69,8 @@ source ~/.zshrc
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/wsmr/SCRIPT-ZSH-PHP_version_manager.git
-cd SCRIPT-ZSH-PHP_version_manager
+git clone https://github.com/wsmr/macOS-ZSH-PHP_version_manager.git
+cd macOS-ZSH-PHP_version_manager
 ```
 
 2. Add to your shell configuration:
@@ -299,8 +299,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-- 🐛 [Report bugs](https://github.com/wsmr/SCRIPT-ZSH-PHP_version_manager/issues)
-- 💬 [Start a discussion](https://github.com/wsmr/SCRIPT-ZSH-PHP_version_manager/discussions)
+- 🐛 [Report bugs](https://github.com/wsmr/macOS-ZSH-PHP_version_manager/issues)
+- 💬 [Start a discussion](https://github.com/wsmr/macOS-ZSH-PHP_version_manager/discussions)
 - ⭐ Star this repo if you find it helpful!
 
 ---
